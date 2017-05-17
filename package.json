@@ -8,6 +8,10 @@
   },
   "author": "Srinivas",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asrinivas61"
+  },
   "dependencies": {
   	"fecha": "*",
   	"express": "*"
