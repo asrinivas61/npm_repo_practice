@@ -1,0 +1,15 @@
+{
+  "name": "practice-module",
+  "version": "1.0.2",
+  "description": "This is a practice module. please ignore!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srinivas",
+  "license": "MIT",
+  "dependencies": {
+  	"fecha": "*",
+  	"express": "*"
+  }
+}
